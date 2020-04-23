@@ -25,6 +25,7 @@ module.exports = {
       directory: "./data/seeds",
     },
   },
+
   // Heroku will look for a 'production' configuration
   production: {
     client: 'pg', // npm i pg
